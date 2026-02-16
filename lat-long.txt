@@ -1,0 +1,4 @@
+35.18,33.37 Nicosia
+34.70,33.02 Limassol
+34.92,33.63 Larnaca
+34.46,32.25 Paphos
