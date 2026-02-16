@@ -2,3 +2,8 @@
 34.70,33.02 Limassol
 34.92,33.63 Larnaca
 34.46,32.25 Paphos
+35.0125, 34.0583 Protaras
+34.6757, 33.046 Agia Napa
+38.1667, 23.7833 Dhekelia
+34.7289,33.3378 Zygi
+35.0395, 33.9818 Paralimni
