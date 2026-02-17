@@ -122,3 +122,5 @@ for idx, response in enumerate(responses):
 # Final JSON output
 json_output = json.dumps(result, indent=2)
 print(json_output)
+
+open("weather_data.json", "w").write(json_output)
